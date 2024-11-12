@@ -13999,6 +13999,13 @@
         "author": "Akop Kesheshyan",
         "description": "Store and visualise ASCII graphics and charts",
         "repo": "akopdev/obsidian-textgrams"
+    },
+    {
+	  "id": "ai-bot",
+	  "name": "AI bot",
+	  "author": "kuzzh",
+	  "description": "A plugin that helps you conveniently leverage the powerful capabilities of AI during your note-editing process.",
+	  "repo": "kuzzh/obsidian-ai-bot"
     }
 ]
 
