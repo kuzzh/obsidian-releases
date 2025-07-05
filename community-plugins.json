@@ -17890,5 +17890,12 @@
     "author": "Utkarsh Raj",
     "description": "Visualize notes as interactive mind maps",
     "repo": "linem-davton/obsidian-better-mindmap"
+  },
+  {
+    "id": "start-page",
+    "name": "Startpage",
+    "author": "kuzzh",
+    "description": "Automatically opens a customized homepage upon startup, displaying pinned and recent notes.",
+    "repo": "kuzzh/obsidian-startpage"
   }
 ]
